@@ -2,8 +2,7 @@
 using System.Windows.Forms;
 using System.Drawing;
 
-// kleine aanpassing
-
+// kleine aanpassing of toch niet
 
 namespace mandelbrot
 {
