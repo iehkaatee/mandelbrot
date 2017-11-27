@@ -2,6 +2,8 @@
 using System.Windows.Forms;
 using System.Drawing;
 
+// kleine aanpassing
+
 
 namespace mandelbrot
 {
@@ -66,7 +68,7 @@ namespace mandelbrot
         {
             output.BackgroundImage = (Image)bit;
             output.BackgroundImageLayout = ImageLayout.None;
-            int x = 250;
+            int x = 200;
 
             while (x < 350)
             {
