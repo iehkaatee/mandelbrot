@@ -2,7 +2,7 @@
 using System.Windows.Forms;
 using System.Drawing;
 
-// kleine aanpassing of toch niet
+// kleine aanpassing of toch niet en dan hier een beetje anders
 
 namespace mandelbrot
 {
